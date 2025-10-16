@@ -3,7 +3,8 @@ description: "Atas das reuniões semanais do GAD (quintas, 14:00 — America/Sao
 lang: pt-BR
 timezone: America/Sao_Paulo
 theme: minima
-
+future: true
+  
 # extras úteis no Pages
 plugins:
   - jekyll-feed
