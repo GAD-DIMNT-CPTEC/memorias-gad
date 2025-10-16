@@ -1,0 +1,20 @@
+title: "Atas do GAD"
+description: "Atas das reuniões semanais do GAD (quintas, 14:00 — America/Sao_Paulo). Decisões, ações e responsáveis."
+lang: pt-BR
+timezone: America/Sao_Paulo
+theme: minima
+
+# extras úteis no Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# opções do tema
+show_excerpts: true
+minima:
+  date_format: "%d %b %Y — %H:%M"
+
+# links do cabeçalho (opcional)
+header_pages:
+  - about.md
+
