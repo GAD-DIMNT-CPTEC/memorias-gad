@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Atas do GAD"
+title: "Memórias das Reuniões do GAD"
 ---
 
 {% assign posts = site.posts %}
