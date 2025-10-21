@@ -1,0 +1,6 @@
+---
+# só o arquivo principal SCSS precisa de front matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // carrega a skin
+@import "minimal-mistakes"; // carrega o tema

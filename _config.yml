@@ -7,8 +7,18 @@ future: true
   
 # extras úteis no Pages
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+
+remote_theme: mmistakes/minimal-mistakes
+logo: "/assets/img/logo.png"
+minimal_mistakes_skin: "mint"
+collections:
+  atas: { output: true, permalink: /atas/:path/ }
+defaults:
+  - scope: { path: "", type: atas }
+    values: { layout: single, author_profile: false, read_time: false }
 
 # opções do tema
 show_excerpts: true
@@ -16,6 +26,9 @@ minima:
   date_format: "%d %b %Y — %H:%M"
 
 # links do cabeçalho (opcional)
-header_pages:
-  - about.md
+#header_pages:
+#  - about.md
+
+
+
 
