@@ -11,13 +11,13 @@ Durante esta reunião, Carlos, Caroline, Eder, João, Liviany e Luiz discutiram 
 ---
 
 ## Pauta
-🔹 **Repositório Git do SMNA** – regularização das permissões e contribuições em andamento
-🔹 **readDiag** – status das modificações no repositório, testes e validação dos dados de vento
-🔹 **SMNA na operação** – retorno da equipe operacional sobre a nova versão e rodada comparativa
-🔹 **Sistema de monitoramento (SMNAMonitoringApp)** – andamento das melhorias e implantação na EGEON
-🔹 **Seminário GODEX** – definição da data e preparação dos materiais
-🔹 **Trabalhos com o JEDI** – andamento e integração com demais atividades
-🔹 **Assuntos gerais** – espaço aberto para contribuições e informes
+- **Repositório Git do SMNA** – regularização das permissões e contribuições em andamento
+- **readDiag** – status das modificações no repositório, testes e validação dos dados de vento
+- **SMNA na operação** – retorno da equipe operacional sobre a nova versão e rodada comparativa
+- **Sistema de monitoramento (SMNAMonitoringApp)** – andamento das melhorias e implantação na EGEON
+- **Seminário GODEX** – definição da data e preparação dos materiais
+- **Trabalhos com o JEDI** – andamento e integração com demais atividades
+- **Assuntos gerais** – espaço aberto para contribuições e informes
 
 ---
 
